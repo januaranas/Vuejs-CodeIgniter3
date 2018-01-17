@@ -13,7 +13,7 @@
 		        	VueJS + CodeIgniter 3
 		      	</a>
 	    	</div>
-	      	<p class="navbar-text navbar-right"><a href="https://github.com/mervinsantillanvillaceran" class="navbar-link">by Gentlemanoi</a></p>
+	      	<p class="navbar-text navbar-right"><a href="https://github.com/mervinsantillanvillaceran" class="navbar-link">by Gameon</a></p>
 	  	</div>
 	</nav>
 
